@@ -1,0 +1,27 @@
+{
+  "name": "socket_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AldoAltamira/socket_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AldoAltamira/socket_test/issues"
+  },
+  "homepage": "https://github.com/AldoAltamira/socket_test#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "0.0.1-security",
+    "nodemon": "^2.0.20",
+    "path": "^0.12.7",
+    "socket.io": "^4.6.1"
+  }
+}
